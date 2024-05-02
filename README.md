@@ -1,3 +1,5 @@
+<img src="téléchargement__1_-removebg-preview"/>
+
 ## 📝 About me
 
 👨‍💻 Lucas NEGRE
