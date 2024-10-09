@@ -29,7 +29,9 @@ During the first 9 months of formation, I will learn to use the following langua
 <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
 <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript badge">
-<img src="https://img.shields.io/badge/C SHARP-512bd4?logo=csharp&logoColor=white&style=for-the-badge" alt="C Sharp badge">
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js badge">
+<img src="https://img.shields.io/badge/Tailwind CSS-38bdf8?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS badge">
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma badge">
 
 
 During the specialization I am considering, I will explore the following :
